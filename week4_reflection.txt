@@ -1,0 +1,2 @@
+Reflection:
+Loops made this task easier because the program can check every IP address automatically instead of requiring each one to be reviewed manually. A SOC analyst may need to separate internal and external traffic to identify whether activity is coming from inside the trusted network or from an outside source. If this script were scaled to thousands of IPs, the same loop logic could read addresses from a log file and classify them much faster than manual review.
