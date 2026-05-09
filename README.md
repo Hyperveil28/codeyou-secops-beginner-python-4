@@ -142,6 +142,6 @@ This script demonstrates how loops improve efficiency in cybersecurity tasks. In
 
 ---
 
-## Author
+## Author: Jesse Grey
 
 Created for Week 4 Python homework: **Loops and Iteration – Automating Repetition for Security Tasks**.
